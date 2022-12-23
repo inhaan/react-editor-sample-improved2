@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-editor-sample-improved2/static/css/main.f6c52e23.css",
+    "main.js": "/react-editor-sample-improved2/static/js/main.a34b4234.js",
+    "static/js/729.9294c4d8.chunk.js": "/react-editor-sample-improved2/static/js/729.9294c4d8.chunk.js",
+    "static/js/234.2a4a7a16.chunk.js": "/react-editor-sample-improved2/static/js/234.2a4a7a16.chunk.js",
+    "static/js/478.2a81fa83.chunk.js": "/react-editor-sample-improved2/static/js/478.2a81fa83.chunk.js",
+    "static/js/787.1b9d5645.chunk.js": "/react-editor-sample-improved2/static/js/787.1b9d5645.chunk.js",
+    "static/css/41.28d19079.chunk.css": "/react-editor-sample-improved2/static/css/41.28d19079.chunk.css",
+    "static/js/41.e301e57a.chunk.js": "/react-editor-sample-improved2/static/js/41.e301e57a.chunk.js",
+    "index.html": "/react-editor-sample-improved2/index.html",
+    "main.f6c52e23.css.map": "/react-editor-sample-improved2/static/css/main.f6c52e23.css.map",
+    "main.a34b4234.js.map": "/react-editor-sample-improved2/static/js/main.a34b4234.js.map",
+    "729.9294c4d8.chunk.js.map": "/react-editor-sample-improved2/static/js/729.9294c4d8.chunk.js.map",
+    "234.2a4a7a16.chunk.js.map": "/react-editor-sample-improved2/static/js/234.2a4a7a16.chunk.js.map",
+    "478.2a81fa83.chunk.js.map": "/react-editor-sample-improved2/static/js/478.2a81fa83.chunk.js.map",
+    "787.1b9d5645.chunk.js.map": "/react-editor-sample-improved2/static/js/787.1b9d5645.chunk.js.map",
+    "41.28d19079.chunk.css.map": "/react-editor-sample-improved2/static/css/41.28d19079.chunk.css.map",
+    "41.e301e57a.chunk.js.map": "/react-editor-sample-improved2/static/js/41.e301e57a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6c52e23.css",
+    "static/js/main.a34b4234.js"
+  ]
+}
